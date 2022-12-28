@@ -1,2 +1,2 @@
-# photosnap
- photosnap multipage website
+# Photosnap multipage website 
+
